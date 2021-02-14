@@ -1,11 +1,7 @@
 // c1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-//Philip Palcsey
-//CIT245 - Z01
-//1/28/2021
-//
-//
+
 
 
 #include <iostream>
